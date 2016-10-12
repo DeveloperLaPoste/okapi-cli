@@ -1,0 +1,30 @@
+env:
+  browser: true
+  es6: true
+  node: true
+  mocha: true
+extends: ['eslint:recommended', 'nodejs']
+rules:
+  indent:
+    - error
+    - 2
+    - SwitchCase: 1
+  no-console: off
+  linebreak-style:
+    - error
+    - unix
+  quotes:
+    - error
+    - single
+    - avoidEscape: true
+      allowTemplateLiterals: true
+  semi:
+    - error
+    - always
+  no-var: warn
+  object-shorthand: warn
+  prefer-arrow-callback: warn
+  prefer-spread: warn
+  arrow-parens: ["warn", "as-needed"]
+  arrow-body-style: ["warn", "as-needed"]
+  prefer-const: warn

@@ -1,0 +1,38 @@
+{
+  "name": "laposte-okapi-cli",
+  "version": "0.0.1",
+  "description": "La Poste Open API client",
+  "main": "lib/okapi-cli.js",
+  "bin": {
+    "oka": "./bin/oka"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:DeveloperLaPoste/okapi-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DeveloperLaPoste/okapi-cli/issues"
+  },
+  "author": "Developer <developer@laposte.io> (https://developer.laposte.fr/)",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "chalk": "^1.1.3",
+    "jsonic": "^0.2.2",
+    "laposte-okapi-sdk": "0.0.5",
+    "lodash": "^4.15.0",
+    "prettyjson": "^1.1.3",
+    "yamljs": "^0.2.8",
+    "yargs": "^5.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.5.0",
+    "eslint-config-nodejs": "^1.1.0",
+    "eslint-plugin-import": "^1.15.0",
+    "mocha": "^3.0.2"
+  }
+}
