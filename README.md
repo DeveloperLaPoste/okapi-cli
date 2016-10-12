@@ -35,7 +35,7 @@ $ npm install laposte-okapi-cli -g
 Obtenir le suivi du colis 1111111111111 :
 
 ```
-$ oka get /suivi/v1/1111111111111 -k 'mon_app_key'
+$ oka get suivi/v1/1111111111111 -k 'mon_app_key'
 ```
 
 Résultat :
@@ -54,7 +54,7 @@ Résultat :
 Exemple de requête POST sur une API (myapi) avec un payload, le switch --tocurl retourne l'équivalent cURL (la requête n'est pas exécutée) :
 
 ```
-$ oka post /myapi/v1/resource -d 'firstName : "John"' -k 'mon_app_key' --tocurl
+$ oka post myapi/v1/resource -d 'firstName : "John"' -k 'mon_app_key' --tocurl
 ```
 
 Commande cURL équivalente :
@@ -62,7 +62,7 @@ Commande cURL équivalente :
 ```
 curl -ki -X GET "http://api.recette.okapi.laposte.io//myapi/v1/resource" \
 	-H "Content-Type: application/x-www-form-urlencoded" \
-	-H "X-Okapi-Key: application_key" \
+	-H "X-Okapi-Key: mon_app_key" \
 	-d "firstName="John""
 ```
 
