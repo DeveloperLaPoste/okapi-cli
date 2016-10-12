@@ -109,6 +109,6 @@ Options:
 Exemples:
   oka post niceapi/v1/niceresource -d 'foo:"bar"'
 
-for more information, contact openhoat@gmail.com
+for more information, contact developer@laposte.io
 
 ```
