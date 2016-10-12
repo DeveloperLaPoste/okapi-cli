@@ -15,7 +15,7 @@
 
 # Le client Okapi en ligne de commande
 
-Ce client facilite la consommation des [Open APIs de La Poste](https://developer.laposte.fr/), via la plateforme Okapi :
+Ce client en ligne de commande facilite la consommation des [Open APIs de La Poste](https://developer.laposte.fr/), via la plateforme Okapi :
 
 ![Developer La Poste](https://github.com/DeveloperLaPoste/okapi-sdk-js/raw/master/assets/img/developer-laposte-fr-screenshot.png)
 
