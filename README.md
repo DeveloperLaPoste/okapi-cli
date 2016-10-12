@@ -5,9 +5,7 @@
   <a href="https://developer.laposte.fr">
     <img style="display: inline-block" title="Okapi" src="https://github.com/DeveloperLaPoste/okapi-sdk-js/raw/master/assets/img/okapi-logo-200.png">
   </a>
-  <a href="https://fr.wikipedia.org/wiki/JavaScript">
-    <img style="display: inline-block" title="JavaScript" src="http://i.stack.imgur.com/Mmww2.png"> 
-  </a>
+  <img style="display: inline-block" title="Cli command" src="https://pixabay.com/static/uploads/photo/2013/07/12/14/48/bash-148836_960_720.png" height="200"> 
   <a href="https://www.laposte.fr/">
     <img style="display: inline-block" title="La Poste" src="https://logorigine.files.wordpress.com/2011/10/logo-la-poste.jpg" height="200"> 
   </a>
