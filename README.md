@@ -1,3 +1,4 @@
+[![NPM version](https://badge.fury.io/js/laposte-okapi-cli.svg)](http://badge.fury.io/js/laposte-okapi-cli)
 [![Build Status](https://travis-ci.org/DeveloperLaPoste/okapi-cli.png?branch=master)](https://travis-ci.org/DeveloperLaPoste/okapi-cli)
 [![npm](https://img.shields.io/npm/l/express.svg?style=flat-square)]()
 
