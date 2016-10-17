@@ -1,6 +1,6 @@
 {
   "name": "laposte-okapi-cli",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "La Poste Open API client",
   "main": "lib/okapi-cli.js",
   "bin": {
