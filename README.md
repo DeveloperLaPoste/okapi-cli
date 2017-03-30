@@ -18,9 +18,9 @@ Ce client en ligne de commande facilite la consommation des [Open APIs de La Pos
 ![Developer La Poste](https://github.com/DeveloperLaPoste/okapi-sdk-js/raw/master/assets/img/developer-laposte-fr-screenshot.png)
 
 Pour consommer des APIs de La Poste, vous devez au préalable :
-- [Créer votre compte](https://developer.laposte.fr/inscription/)
+- [Créer votre compte](https://developer.laposte.fr/signup)
 - Créer une application et noter la clé d'app générée, à utiliser comme appKey dans le SDK
-- Souscrire à une API du [store](https://developer.laposte.fr/produit/)
+- Souscrire à une API du [store](https://developer.laposte.fr/products)
 
 ## Installation
 
